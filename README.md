@@ -1,4 +1,4 @@
-# Hi, I'm Sharanch Mukhia
+# Hi! I'm Sharanch Mukhia
 
 <div align="right">
 
