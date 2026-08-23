@@ -134,9 +134,6 @@ Production-ready e-commerce chatbot that handles natural, SQL-like prompts and a
 ## 📫 Connect With Me
 
 <div align="center">
-
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranchmukhia@gmail.com)
-
 </div>
 
 ---
