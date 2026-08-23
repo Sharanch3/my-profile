@@ -136,7 +136,6 @@ Production-ready e-commerce chatbot that handles natural, SQL-like prompts and a
 <div align="center">
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranchmukhia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharanch-mukhia-633b7830a/)
 
 </div>
 
