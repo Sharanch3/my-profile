@@ -4,7 +4,7 @@
 
 </div>
 
-# Hello there! Sharanch here.
+# Hello there! Sharanch here
 
 <div align="center">
   
